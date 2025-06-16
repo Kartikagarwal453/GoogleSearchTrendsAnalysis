@@ -71,14 +71,6 @@ jupyter notebook AnalysisProject.ipynb
 
 ---
 
-## 📊 Example Visualizations
-Time-series plots of search interest
-
-Heatmaps of regional interest
-
-Related and rising keyword tables
-
----
 
 ## 🔍 Use Cases
 🛍️ Market Research – Track interest in a product over time
