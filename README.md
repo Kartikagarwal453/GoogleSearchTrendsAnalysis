@@ -14,6 +14,16 @@ This project explores and visualizes search interest over time using Google Tren
 
 ---
 
+## 📦 Project Structure
+
+```bash
+GoogleSearchTrendsAnalysis/
+├── AnalysisProject.ipynb     # Jupyter Notebook with the full analysis
+├── requirements.txt          # Project dependencies
+└── README.md                 # Project overview and instructions
+```
+
+---
 
 ## 🧠 What is Pytrends?
 
@@ -42,16 +52,22 @@ This project explores and visualizes search interest over time using Google Tren
 
 ### 1. Clone the repository
 
-git clone https://github.com/Kartikagarwal453/GoogleSearchTrendsAnalysis.git<br>
+```bash
+git clone https://github.com/Kartikagarwal453/GoogleSearchTrendsAnalysis.git
 cd GoogleSearchTrendsAnalysis
+```
 
 ### 2. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Launch the Jupyter Notebook
 
+```bash
 jupyter notebook AnalysisProject.ipynb
+```
 
 ---
 
