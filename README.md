@@ -13,7 +13,7 @@ This project explores and visualizes search interest over time using Google Tren
 - **Matplotlib & Seaborn** – for plotting and visualization
 
 ---
-
+'''markdown 
 ## 📦 Project Structure
 
 ```bash
@@ -21,6 +21,8 @@ GoogleSearchTrendsAnalysis/
 ├── AnalysisProject.ipynb     # Jupyter Notebook with the full analysis
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project overview and instructions
+
+
 
 ---
 
